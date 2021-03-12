@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomisavolainen
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning new stuff every day
